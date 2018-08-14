@@ -1,6 +1,6 @@
 <?php
 
-namespace Pantheon\TerminusFiler\Commands;
+namespace Pantheon\TerminusStooges\Commands;
 
 use Pantheon\Terminus\Collections\Domains;
 use Pantheon\Terminus\Collections\Environments;
